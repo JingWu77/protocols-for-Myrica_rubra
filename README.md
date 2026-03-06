@@ -1,0 +1,1 @@
+These are the code files we used to perform the main analyses in the paper: "Genomic origin, domestication, and gene expression control of fruit traits in Chinese bayberry with bHLH-IBH1 mediated anthocyanin biosynthesis" authored by Jing Wu, Tongzhou Tao, Junke Li, Pan Li, Hongli Xie, Martin Lascoux, Junbei Ni, Jun Chen.
