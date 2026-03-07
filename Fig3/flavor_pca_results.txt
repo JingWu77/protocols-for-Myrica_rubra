@@ -1,0 +1,64 @@
+**Results for the Principal Component Analysis (PCA)**
+The analysis was performed on 27 individuals, described by 3 variables
+*The results are available in the following objects:
+
+   name               description                          
+1  "$eig"             "eigenvalues"                        
+2  "$var"             "results for the variables"          
+3  "$var$coord"       "coord. for the variables"           
+4  "$var$cor"         "correlations variables - dimensions"
+5  "$var$cos2"        "cos2 for the variables"             
+6  "$var$contrib"     "contributions of the variables"     
+7  "$ind"             "results for the individuals"        
+8  "$ind$coord"       "coord. for the individuals"         
+9  "$ind$cos2"        "cos2 for the individuals"           
+10 "$ind$contrib"     "contributions of the individuals"   
+11 "$call"            "summary statistics"                 
+12 "$call$centre"     "mean of the variables"              
+13 "$call$ecart.type" "standard error of the variables"    
+14 "$call$row.w"      "weights for the individuals"        
+15 "$call$col.w"      "weights for the variables"          
+      eigenvalue variance.percent cumulative.variance.percent
+Dim.1  1.5307064         51.02355                    51.02355
+Dim.2  0.9918388         33.06129                    84.08484
+Dim.3  0.4774548         15.91516                   100.00000
+                   Dim.1       Dim.2     Dim.3
+Suger          0.3937442  0.89547809 0.2075680
+Organic_acid  -0.8713853  0.01210535 0.4904499
+Anthocyanidin  0.7850857 -0.43567330 0.4402604
+                  Dim.1        Dim.2      Dim.3
+Suger         0.1550345 0.8018810149 0.04308449
+Organic_acid  0.7593123 0.0001465396 0.24054111
+Anthocyanidin 0.6163596 0.1898112245 0.19382920
+                 Dim.1       Dim.2     Dim.3
+Suger         10.12830 80.84791923  9.023783
+Organic_acid  49.60535  0.01477453 50.379871
+Anthocyanidin 40.26635 19.13730624 40.596346
+        Dim.1       Dim.2       Dim.3
+1   0.4142621  1.43711676  0.43838026
+2   0.4009312  1.46794113  0.44462191
+3   0.3477586  1.45821491  0.40956245
+4   0.2724752  1.83930184 -0.08115462
+5   0.3045042  1.86244765 -0.08053462
+6   0.2494844  1.88535779 -0.12167767
+7   2.0510718 -0.65629473  0.57059527
+8   2.1910569 -0.66297928  0.57055474
+9   2.1378859 -0.65150420  0.54559406
+10 -0.4229680 -0.75577649 -1.37901904
+11 -0.4510992 -0.63682721 -1.34959273
+12 -0.4702270 -0.66368810 -1.35334555
+13  0.4372908 -0.20754899 -0.36711494
+14  0.3120984 -0.12720875 -0.47364249
+15  0.4056848 -0.13677702 -0.34277287
+16  0.4293175 -0.18963877  0.24582156
+17  0.3445383 -0.11915755  0.26755349
+18  0.3559038 -0.12939964  0.33530749
+19  0.2162540 -1.40922589  0.40847521
+20  0.3298005 -1.50207087  0.45874331
+21  0.3307650 -1.66332323  0.66120681
+22 -0.5408996  0.06391056 -0.83169890
+23 -0.5495821  0.09367568 -0.78421560
+24 -0.5520439  0.05813898 -0.79281826
+25 -2.8487366 -0.18123661  0.89736557
+26 -2.6442116 -0.23362564  0.65849435
+27 -3.0513154 -0.23982231  1.04531081
